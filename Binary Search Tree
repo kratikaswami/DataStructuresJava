@@ -8,3 +8,5 @@ public interface Tree <D extends Comparable>{
 	public NonEmptyBST<D> add(D elt);
 
 }
+
+
